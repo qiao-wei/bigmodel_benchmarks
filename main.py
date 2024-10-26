@@ -8,6 +8,14 @@ def calculate_average(numbers):
     """计算平均值"""
     return sum(numbers) / len(numbers)
 
+# def generate_random_numbers(numbers):
+#    """计算平均值"""
+#    return sum(numbers) / len(numbers)
+
+# def calculate_average(numbers):
+#    """计算平均值"""
+#    return sum(numbers) / len(numbers)
+
 # 生成10个随机数
 random_numbers = generate_random_numbers(10)
 print("随机数列表:", random_numbers)
